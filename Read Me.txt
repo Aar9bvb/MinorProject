@@ -1,0 +1,22 @@
+The project is done in partial fulfillment of completion of sixth semester B.E. during the academic year 2020-21.
+
+
+* Project Title : Integer Factorization using Shor's Algorithm
+
+
+The file structure of the project is as follows :
+
+
+* Reference Papers (Folder)
+* Review Presentations (Folder)
+* Software Used (Folder)
+* Source Code (Folder)
+* Final Presenatation (ESA Minor Project Presentation)
+* Final Project Report (S3_Minor_Project_Report)
+
+The Project is impelemented on IBMQ platoform using Qasm Simulator as real quamtum computers are very hard to access. The notebook can be run on this platform by registering free of cost.
+
+Link : https://quantum-computing.ibm.com/
+
+The detailed implementation of the algorithm is discussed in the report named 
+Final Minor Project Report 

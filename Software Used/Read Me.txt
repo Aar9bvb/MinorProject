@@ -1,0 +1,3 @@
+The Project is impelemented on IBMQ platoform using Qasm Simulator as real quamtum computers are very hard to access. The notebook can be run on this platform by registering free of cost.
+
+Link : https://quantum-computing.ibm.com/
